@@ -1,3 +1,2 @@
-console.log("I like oranges")
-:w
+console.log("I like orange, the color!")
 
